@@ -28,7 +28,7 @@ sections:
       id: infocols
       linktext: More details appear please
       infoboxes:
-        - title: ">20,00"
+        - title: ">20,0001"
           description: seated audience
         - title: 4,000
           description: performers
