@@ -32,7 +32,7 @@ sections:
       title: Chingay Parade 2025 at a glance
       subtitle: Add snippets of text in columns
       id: infocols
-      linktext: Learn more
+      linktext: More details
       infoboxes:
         - title: ">20,00"
           description: seated audience
