@@ -22,12 +22,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infocols:
       title: Chingay Parade 2025 at a glance
       subtitle: Add snippets of text in columns
