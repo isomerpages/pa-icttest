@@ -6,27 +6,40 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Hero title
+      subtitle: Hero subtitle
+      background: /images/hero-banner.png
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: Highlight A
+          description: Important highlight A is important
+          url: https://google.com
+        - title: Highlight B
+          description: Important highlight B is equally important
+          url: https://gmail.com
+        - title: Page A
+          description: Page A is important too
+          url: /privacy/
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
+  - infocols:
+      title: Chingay Parade 2025 at a glance
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: ">20,00"
+          description: seated audience
+        - title: 4,000
+          description: performers
+        - title: "60"
+          description: multi-ethnic drummers and lion dancers
+        - title: "23"
+          description: food-inspired floats
 ---
-
