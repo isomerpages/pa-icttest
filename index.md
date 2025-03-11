@@ -24,9 +24,9 @@ sections:
           url: /privacy/
   - infocols:
       title: Chingay Parade 2025 at a glance
-      subtitle: Testing
+      subtitle: Testing subtitle
       id: infocols
-      linktext: More details
+      linktext: More details appear please
       infoboxes:
         - title: ">20,00"
           description: seated audience
