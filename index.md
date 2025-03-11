@@ -24,7 +24,7 @@ sections:
           url: /privacy/
   - infocols:
       title: Chingay Parade 2025 at a glance
-      subtitle: Add snippets of text in columns
+      subtitle: Testing
       id: infocols
       linktext: More details
       infoboxes:
