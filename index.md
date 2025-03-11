@@ -25,7 +25,7 @@ sections:
   - infocols:
       title: Chingay Parade 2025 at a glance
       id: infocols
-      linktext: More details appear please
+      linktext: More details
       infoboxes:
         - title: ">20,0001"
           description: seated audience
