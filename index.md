@@ -4,7 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For scam-related
+  advice, visit <a
+  href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>.
 sections:
   - hero:
       title: Hero title
